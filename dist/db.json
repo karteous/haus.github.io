@@ -1408,5 +1408,10 @@
         "name": "xray",
         "sort": "docker",
         "course": ""
+    },
+    {
+        "name": "ipcheck",
+        "sort": "docker",
+        "course": ""
     }
 ]
