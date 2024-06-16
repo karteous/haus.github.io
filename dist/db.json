@@ -1388,20 +1388,5 @@
     "name": "lucky-white",
     "sort": "docker",
     "course": ""
-  },
-  {
-    "name": "ipcheck",
-    "sort": "docker",
-    "course": ""
-  },
-  {
-    "name": "openspeedtest",
-    "sort": "docker",
-    "course": ""
-  },
-  {
-    "name": "openspeedtest-white",
-    "sort": "docker",
-    "course": ""
   }
 ]
