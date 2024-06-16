@@ -1384,4 +1384,9 @@
     "sort": "vms",
     "course": ""
   }
+  {
+    "name": "lucky",
+    "sort": "docker",
+    "course": ""
+  }
 ]
