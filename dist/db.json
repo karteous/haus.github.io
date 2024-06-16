@@ -1398,5 +1398,15 @@
         "name": "openspeedtest-white",
         "sort": "docker",
         "course": ""
+    },
+    {
+        "name": "openspeedtest-white",
+        "sort": "docker",
+        "course": ""
+    },
+    {
+        "name": "xray",
+        "sort": "docker",
+        "course": ""
     }
 ]
