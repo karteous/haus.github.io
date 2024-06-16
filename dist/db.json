@@ -1390,22 +1390,7 @@
     "course": ""
   },
   {
-    "name": "网心云",
-    "sort": "vms",
-    "course": ""
-  },
-  {
-    "name": "迅雷",
-    "sort": "docker",
-    "course": ""
-  },
-  {
     "name": "ipcheck",
-    "sort": "docker",
-    "course": ""
-  },
-  {
-    "name": "网易云",
     "sort": "docker",
     "course": ""
   },
