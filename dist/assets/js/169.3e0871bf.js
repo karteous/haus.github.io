@@ -1512,7 +1512,6 @@
 			null, 8, ["icon", "onClick"])]), (0, r._)("div", m, [(0, r._)("div", g, [(0, r._)("div", h, (0, i.zw)(t.data.selectlabel), 1), (0, r._)("div", b, (0, i.zw)(t.data.icondata.length), 1), (0, r.Wm)(G, {
 				class: "cdn",
 				modelValue: t.value1,
-				t.value1: true,
 				"onUpdate:modelValue": e[2] || (e[2] = e = >t.value1 = e),
 				"active-text": "CDN"
 			},
